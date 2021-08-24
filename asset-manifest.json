@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.fcb7ff7b.chunk.css",
-    "main.js": "/static/js/main.fa675068.chunk.js",
-    "main.js.map": "/static/js/main.fa675068.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.d339901c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.d339901c.js.map",
-    "static/js/2.8248f239.chunk.js": "/static/js/2.8248f239.chunk.js",
-    "static/js/2.8248f239.chunk.js.map": "/static/js/2.8248f239.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.fcb7ff7b.chunk.css.map": "/static/css/main.fcb7ff7b.chunk.css.map",
-    "static/js/2.8248f239.chunk.js.LICENSE.txt": "/static/js/2.8248f239.chunk.js.LICENSE.txt",
-    "static/media/img-1.a187b17c.jpg": "/static/media/img-1.a187b17c.jpg",
-    "static/media/App.css": "/static/media/img-4.4fe0456b.jpg",
-    "static/media/img-2.ac279752.jpg": "/static/media/img-2.ac279752.jpg",
-    "static/media/img-3.af0e39df.jpg": "/static/media/img-3.af0e39df.jpg",
-    "static/media/img-4.39f07ee5.jpg": "/static/media/img-4.39f07ee5.jpg",
-    "static/media/img-9.910c375a.jpg": "/static/media/img-9.910c375a.jpg",
-    "static/media/video-2.35c72566.mp4": "/static/media/video-2.35c72566.mp4"
+    "main.css": "/Travel_guide/static/css/main.39dfa96f.chunk.css",
+    "main.js": "/Travel_guide/static/js/main.fa675068.chunk.js",
+    "main.js.map": "/Travel_guide/static/js/main.fa675068.chunk.js.map",
+    "runtime-main.js": "/Travel_guide/static/js/runtime-main.2d661119.js",
+    "runtime-main.js.map": "/Travel_guide/static/js/runtime-main.2d661119.js.map",
+    "static/js/2.8248f239.chunk.js": "/Travel_guide/static/js/2.8248f239.chunk.js",
+    "static/js/2.8248f239.chunk.js.map": "/Travel_guide/static/js/2.8248f239.chunk.js.map",
+    "index.html": "/Travel_guide/index.html",
+    "static/css/main.39dfa96f.chunk.css.map": "/Travel_guide/static/css/main.39dfa96f.chunk.css.map",
+    "static/js/2.8248f239.chunk.js.LICENSE.txt": "/Travel_guide/static/js/2.8248f239.chunk.js.LICENSE.txt",
+    "static/media/img-1.a187b17c.jpg": "/Travel_guide/static/media/img-1.a187b17c.jpg",
+    "static/media/App.css": "/Travel_guide/static/media/img-4.4fe0456b.jpg",
+    "static/media/img-2.ac279752.jpg": "/Travel_guide/static/media/img-2.ac279752.jpg",
+    "static/media/img-3.af0e39df.jpg": "/Travel_guide/static/media/img-3.af0e39df.jpg",
+    "static/media/img-4.39f07ee5.jpg": "/Travel_guide/static/media/img-4.39f07ee5.jpg",
+    "static/media/img-9.910c375a.jpg": "/Travel_guide/static/media/img-9.910c375a.jpg",
+    "static/media/video-2.35c72566.mp4": "/Travel_guide/static/media/video-2.35c72566.mp4"
   },
   "entrypoints": [
-    "static/js/runtime-main.d339901c.js",
+    "static/js/runtime-main.2d661119.js",
     "static/js/2.8248f239.chunk.js",
-    "static/css/main.fcb7ff7b.chunk.css",
+    "static/css/main.39dfa96f.chunk.css",
     "static/js/main.fa675068.chunk.js"
   ]
 }
